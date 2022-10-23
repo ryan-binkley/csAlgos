@@ -1,0 +1,15 @@
+C:\Users\cools\Desktop\C#_Stuff\csAlgos\BubbleSort\bin\Debug\net6.0\Bubble.exe
+C:\Users\cools\Desktop\C#_Stuff\csAlgos\BubbleSort\bin\Debug\net6.0\Bubble.deps.json
+C:\Users\cools\Desktop\C#_Stuff\csAlgos\BubbleSort\bin\Debug\net6.0\Bubble.runtimeconfig.json
+C:\Users\cools\Desktop\C#_Stuff\csAlgos\BubbleSort\bin\Debug\net6.0\Bubble.dll
+C:\Users\cools\Desktop\C#_Stuff\csAlgos\BubbleSort\bin\Debug\net6.0\Bubble.pdb
+C:\Users\cools\Desktop\C#_Stuff\csAlgos\BubbleSort\obj\Debug\net6.0\Bubble.csproj.AssemblyReference.cache
+C:\Users\cools\Desktop\C#_Stuff\csAlgos\BubbleSort\obj\Debug\net6.0\Bubble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cools\Desktop\C#_Stuff\csAlgos\BubbleSort\obj\Debug\net6.0\Bubble.AssemblyInfoInputs.cache
+C:\Users\cools\Desktop\C#_Stuff\csAlgos\BubbleSort\obj\Debug\net6.0\Bubble.AssemblyInfo.cs
+C:\Users\cools\Desktop\C#_Stuff\csAlgos\BubbleSort\obj\Debug\net6.0\Bubble.csproj.CoreCompileInputs.cache
+C:\Users\cools\Desktop\C#_Stuff\csAlgos\BubbleSort\obj\Debug\net6.0\Bubble.dll
+C:\Users\cools\Desktop\C#_Stuff\csAlgos\BubbleSort\obj\Debug\net6.0\refint\Bubble.dll
+C:\Users\cools\Desktop\C#_Stuff\csAlgos\BubbleSort\obj\Debug\net6.0\Bubble.pdb
+C:\Users\cools\Desktop\C#_Stuff\csAlgos\BubbleSort\obj\Debug\net6.0\Bubble.genruntimeconfig.cache
+C:\Users\cools\Desktop\C#_Stuff\csAlgos\BubbleSort\obj\Debug\net6.0\ref\Bubble.dll

@@ -9,30 +9,63 @@ namespace Bubble
         {
             var watch = new System.Diagnostics.Stopwatch();
 
-            int[] inputIntegers = {74, 87, 83, 48, 34, 53, 86, 65, 84, 63, 77, 12, 85, 99, 15, 51, 0, 54, 26, 60};
+            int[] inputIntegers = GenerateRandomIntegerArray(100000);
 
             watch.Start();
 
-
+            BubbleSort(inputIntegers);
 
             watch.Stop();
 
-            Console.WriteLine($"Execution Time: {watch.ElapsedMilliseconds} ms");
-
             Console.WriteLine("Sorted List: ");
+
+            PrintSortedArray(BubbleSort(inputIntegers));
+
+            Console.WriteLine($"\nExecution Time: {watch.ElapsedMilliseconds} ms");
         }
 
-        public int[] BubbleSort(int[] inputArray)
+        public static int[] BubbleSort(int[] inputArray)
         {
-            bool isSorted = false;
+            int tempInt;
 
-            while (isSorted == false)
+            for (int counter1 = 0 ; counter1 < inputArray.Length ; counter1++)
             {
-                for (int counter = 0 ; counter < inputArray.Length - 1 ; counter++)
+                for (int counter2 = 0 ; counter2 < inputArray.Length - 1 ; counter2++)
                 {
+                    if (inputArray[counter2] > inputArray[counter2 + 1])
+                    {
+                        tempInt = inputArray[counter2 + 1];
 
+                        inputArray[counter2 + 1] = inputArray[counter2];
+
+                        inputArray[counter2] = tempInt;
+                    } 
                 }
             }
+
+            return inputArray;
+        }
+
+        public static void PrintSortedArray(int[] inputArray)
+        {
+            foreach (int x in inputArray)
+            {
+                Console.Write(x.ToString() + " ");
+            }
+        }
+
+        public static int[] GenerateRandomIntegerArray(int arrayLength)
+        {
+            Random rng = new Random();
+
+            int[] randomIntegers = new int[arrayLength];
+
+            for (int i = 0 ; i < randomIntegers.Length ; i++)
+            {
+                randomIntegers[i] = rng.Next(1, 100);
+            }
+
+            return randomIntegers;
         }
     }
 }

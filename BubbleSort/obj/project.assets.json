@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Hannah's Gaming Lapt\\.nuget\\packages\\": {},
+    "C:\\Users\\cools\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hannah's Gaming Lapt\\Desktop\\csAlgos\\SortingAlgos\\Bubble\\Bubble.csproj",
+      "projectUniqueName": "C:\\Users\\cools\\Desktop\\C#_Stuff\\csAlgos\\BubbleSort\\Bubble.csproj",
       "projectName": "Bubble",
-      "projectPath": "C:\\Users\\Hannah's Gaming Lapt\\Desktop\\csAlgos\\SortingAlgos\\Bubble\\Bubble.csproj",
-      "packagesPath": "C:\\Users\\Hannah's Gaming Lapt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hannah's Gaming Lapt\\Desktop\\csAlgos\\SortingAlgos\\Bubble\\obj\\",
+      "projectPath": "C:\\Users\\cools\\Desktop\\C#_Stuff\\csAlgos\\BubbleSort\\Bubble.csproj",
+      "packagesPath": "C:\\Users\\cools\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cools\\Desktop\\C#_Stuff\\csAlgos\\BubbleSort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hannah's Gaming Lapt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cools\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
