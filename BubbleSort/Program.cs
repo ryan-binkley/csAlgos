@@ -11,7 +11,7 @@ namespace Bubble
             var watch = new System.Diagnostics.Stopwatch();
 
             // Generate an unsorted array of x numbers
-            int[] inputIntegers = GenerateRandomIntegerArray(100000);
+            int[] inputIntegers = GenerateRandomIntegerArray(10000);
 
             // Begin recording runtime
             watch.Start();

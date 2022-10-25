@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UMF+on5UNvLHrITDOxmLGZyzf0/0q4pcevUX/mfUI729zqwE+aQsNqtBqr6NRM5+89aYOb35z2IO/3aqE03erQ==",
+  "dgSpecHash": "jKns9AvvMnpTPK9GN/YUWoXnkwA3LQ0T7hP/ViILQ9URFg5pp5U8CuUjw0It2EVaCVsLSy1RoZABCZtqJJvs3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cools\\Desktop\\C#_Stuff\\csAlgos\\BubbleSort\\Bubble.csproj",
+  "projectFilePath": "/root/csAlgos/BubbleSort/Bubble.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
