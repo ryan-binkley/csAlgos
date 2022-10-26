@@ -7,7 +7,7 @@ namespace CycleSort
 	{
 		static void Main(string[] args)
 		{
-			 // Diagnostics has a built in timer for recording execution time
+		 // Diagnostics has a built in timer for recording execution time
             var watch = new System.Diagnostics.Stopwatch();
 
             // Generate an unsorted array of x numbers
@@ -28,6 +28,29 @@ namespace CycleSort
             // Print to the console the runtime in milliseconds
             Console.WriteLine($"\nExecution Time: {watch.ElapsedMilliseconds} ms");
 		}
+
+
+            public static void PrintSortedArray(int[] inputArray)
+            {
+                  foreach (int x in inputArray)
+                  {
+                         Console.Write(x.ToString() + " ");
+                  }
+            }
+
+            public static int[] GenerateRandomIntegerArray(int arrayLength)
+            {
+                  Random rng = new Random();
+
+                  int[] randomIntegers = new int[arrayLength];
+
+                  for (int i = 0 ; i < randomIntegers.Length ; i++)
+                  {
+                         randomIntegers[i] = rng.Next(1, 100);
+                  }
+
+                  return randomIntegers;
+            }
 	}
 }
 
