@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/foxtailrb/csAlgos/InsertionSort/InsertionSort.csproj",
-      "projectName": "InsertionSort",
-      "projectPath": "/home/foxtailrb/csAlgos/InsertionSort/InsertionSort.csproj",
+      "projectUniqueName": "/home/foxtailrb/csAlgos/QuickSort/QuickSort.csproj",
+      "projectName": "QuickSort",
+      "projectPath": "/home/foxtailrb/csAlgos/QuickSort/QuickSort.csproj",
       "packagesPath": "/home/foxtailrb/.nuget/packages/",
-      "outputPath": "/home/foxtailrb/csAlgos/InsertionSort/obj/",
+      "outputPath": "/home/foxtailrb/csAlgos/QuickSort/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/foxtailrb/.nuget/NuGet/NuGet.Config"

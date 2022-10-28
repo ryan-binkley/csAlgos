@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lkiZsdxmhiJXb6XCuEQzWmbWR/kFKjgeTJYWN1B1fTi9OSyov3TJCcV43diHlp7YfnZZRN4MMu25o1jZG3myqA==",
+  "dgSpecHash": "dnYumxJKmhhIcoqbs+0Yzblo+tMM2QN0uJQiJuxVQ4NkP4Mcfs7C09YxdeBs5OYkL99xcd/mr6I92EChpoRV7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cools\\Desktop\\C#_Stuff\\csAlgos\\InsertionSort\\InsertionSort.csproj",
+  "projectFilePath": "/home/foxtailrb/csAlgos/InsertionSort/InsertionSort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
